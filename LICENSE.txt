@@ -1,0 +1,36 @@
+VPOOL SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2024 | ftrou
+
+IMPORTANT – READ CAREFULLY: This Software License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and [Your Name or Company] ("Licensor"). By using this Software, you agree to be bound by the terms of this Agreement.
+
+1. GRANT OF LICENSE:
+   Subject to the terms and conditions of this Agreement, Licensor hereby grants you a non-exclusive, non-transferable, revocable license to use the Software solely for evaluation, research, or internal business purposes. Commercial use, reproduction, modification, distribution, or sublicensing of the Software is strictly prohibited without the prior written consent of Licensor.
+
+2. RESTRICTIONS:
+   You shall not:
+   a) Modify, copy, or create derivative works of the Software.
+   b) Reverse engineer, decompile, or disassemble the Software, except as expressly permitted by applicable law.
+   c) Distribute, sublicense, or otherwise transfer the Software or any portion thereof.
+   d) Use the Software to develop or support any product or service that competes with the patented technology of Licensor.
+   e) Remove or alter any proprietary notices or labels on the Software.
+
+3. INTELLECTUAL PROPERTY:
+   The Software and all accompanying documentation are protected by copyright and other intellectual property laws. All rights not expressly granted in this Agreement are reserved by Licensor.
+
+4. PATENT RIGHTS:
+   Licensor asserts patent rights over certain innovations embodied in the Software. Any unauthorized use that infringes upon these patent rights is strictly prohibited.
+
+5. DISCLAIMER OF WARRANTIES:
+   THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT ITS OPERATION WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+6. LIMITATION OF LIABILITY:
+   IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOSS OF PROFITS, REVENUE, DATA OR USE, INCURRED BY YOU OR ANY THIRD PARTY, WHETHER IN AN ACTION IN CONTRACT OR TORT, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. TERMINATION:
+   This Agreement is effective until terminated. It will automatically terminate if you fail to comply with any of its terms. Upon termination, you must immediately cease all use of the Software and destroy all copies in your possession.
+
+BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS.
+
+[Your Name or Company]
+[Year]
