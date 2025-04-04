@@ -1,3 +1,4 @@
+- https://www.youtube.com/@ftrou
 # Efficient Inference Offload
 
 This repository demonstrates an optimized inference pipeline for large language models on consumer-grade GPUs (e.g., a 4070 Super with 12 GB VRAM) using offloading and mixed precision.
