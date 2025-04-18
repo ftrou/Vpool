@@ -76,3 +76,14 @@ Let’s democratize high-performance inference.
 
 — ftrou
 
+---
+
+## 🛠️ Coming Soon: Vpool Pro SDK
+We're working on an advanced version of Vpool for developers and teams who want to:
+- Optimize offloading strategies with pre-tuned profiles
+- Monitor GPU/CPU memory usage in real time
+- Run massive models on smaller hardware without cluster setup
+- Bundle Vpool into agent platforms or edge deployments
+
+Interested in early access or commercial support?
+📩 Reach out or watch this repo for updates on **Vpool Pro SDK and enterprise integration**.
